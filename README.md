@@ -21,16 +21,16 @@ With an Innovative ARM® + FPGA architecture, the Zynq Ultrascale+ FPGA is smart
 
 ---
 
-![Tilted](https://github.com/AmirhoseinMasoumi/Progress-V3.1/blob/main/Assets/Images/Tilted.png)
+![Tilted](https://github.com/AmirhoseinMasoumi/Zynq-Core-Board/blob/main/Assets/Images/Tilted.png)
 
 ---
 
-![Front](https://github.com/AmirhoseinMasoumi/Progress-V3.1/blob/main/Assets/Images/Front.png)
+![Front](https://github.com/AmirhoseinMasoumi/Zynq-Core-Board/blob/main/Assets/Images/Front.png)
 
 ---
 
-![Back](https://github.com/AmirhoseinMasoumi/Progress-V3.1/blob/main/Assets/Images/Back.png)
+![Back](https://github.com/AmirhoseinMasoumi/Zynq-Core-Board/blob/main/Assets/Images/Back.png)
 
 ---
 
-![Layers](https://github.com/AmirhoseinMasoumi/Progress-V3.1/blob/main/Assets/Images/Layers.png)
+![Layers](https://github.com/AmirhoseinMasoumi/Zynq-Core-Board/blob/main/Assets/Images/Layers.png)
